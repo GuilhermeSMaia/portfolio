@@ -1,6 +1,6 @@
 import { skills } from '../data/content.js'
 
-export default function Stack() {
+export default function Skills() {
   return (
     <section id="skills">
       <div className="wrap">

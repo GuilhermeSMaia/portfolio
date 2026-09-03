@@ -1,12 +1,12 @@
 import Nav from './components/Nav.jsx'
 import Hero from './components/Hero.jsx'
 import About from './components/About.jsx'
-import Stack from './components/Stack.jsx'
 import Experience from './components/Experience.jsx'
 import Projects from './components/Projects.jsx'
 import Education from './components/Education.jsx'
 import Contact from './components/Contact.jsx'
 import Footer from './components/Footer.jsx'
+import Skills from './components/Skills.jsx'
 
 export default function App() {
   return (
@@ -14,7 +14,7 @@ export default function App() {
       <Nav />
       <Hero />
       <About />
-      <Stack />
+      <Skills />
       <Experience />
       <Projects />
       <Education />
