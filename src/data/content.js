@@ -72,8 +72,9 @@ export const projects = [
       'Sistema em desenvolvimento como Trabalho de Conclusão de Curso, criado para ajudar o usuário a decidir onde comprar seus produtos, comparando preços entre diferentes fontes coletadas automaticamente.',
     highlights: [
       'Alimentação do banco de dados por meio de ferramentas de web scraping.',
-      'Mesma stack full-stack do projeto E-Campet: React com TypeScript no front-end, Node.js e Quarkus (Java) no back-end.',
-      'Uso de MySQL como banco de dados, em vez do PostgreSQL utilizado no E-Campet.',
+      'Auxiliar a decisão do usuário sobre onde comprar seus produtos.',
+      'Relatorio da mudança do preço dos produtos',
+      'em desenvolvimento...'
     ],
     tags: ['React', 'TypeScript', 'Node.js', 'Quarkus', 'Web Scraping', 'MySQL'],
   },
@@ -81,7 +82,7 @@ export const projects = [
     title: 'E-Campet',
     subtitle: 'Sistema de apoio à campanha de vacinação antirrábica',
     description:
-      'Sistema desenvolvido para o governo de Porto Velho, dando suporte a uma campanha de vacinação antirrábica com fluxo de ponta a ponta: cadastro, acompanhamento e consulta de informações em tempo real, via API REST.',
+      'Sistema desenvolvido para o governo de Porto Velho, dando suporte a campanha anual de vacinação antirrábica com fluxo de ponta a ponta: cadastro, acompanhamento e consulta de informações em tempo real, via API REST.',
     highlights: [
       'Gerenciamento de gastos e materiais necessários à campanha.',
       'Cálculo de médias de animais vacinados.',

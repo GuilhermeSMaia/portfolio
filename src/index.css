@@ -50,7 +50,6 @@ a {
   padding: 0 32px;
 }
 
-/* ---------- NAV ---------- */
 nav {
   position: sticky;
   top: 0;
@@ -94,7 +93,6 @@ nav a:hover {
   border-color: var(--amber);
 }
 
-/* ---------- HERO ---------- */
 header.hero {
   padding: 72px 0 0;
   border-bottom: 1px solid var(--line-soft);
@@ -128,8 +126,8 @@ header.hero {
   font-size: 26px;
 }
 .avatar-photo {
-  object-fit: cover;
-  object-position: center 20%;
+  object-fit: contain;
+  background: #F4F3F1;
   border: 1px solid var(--line);
 }
 .hero-card-list {
@@ -237,7 +235,6 @@ header.hero .cta-row {
   transform: translateY(-1px);
 }
 
-/* ---------- SECTION SHARED ---------- */
 section {
   padding: 72px 0;
   border-bottom: 1px solid var(--line-soft);
@@ -261,7 +258,6 @@ section:last-of-type {
   font-size: 28px;
 }
 
-/* ---------- ABOUT ---------- */
 #sobre .grid {
   display: grid;
   grid-template-columns: 1.3fr 1fr;
@@ -298,7 +294,6 @@ section:last-of-type {
   font-size: 15px;
 }
 
-/* ---------- SKILLS ---------- */
 .skills-groups {
   display: grid;
   grid-template-columns: repeat(3, 1fr);

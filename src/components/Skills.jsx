@@ -6,7 +6,7 @@ export default function Stack() {
       <div className="wrap">
         <div className="section-head">
           <span className="num">02</span>
-          <h2>Skills</h2>
+          <h2>Habilidades</h2>
         </div>
         <div className="skills-groups">
           {skills.map((group) => (

@@ -9,7 +9,7 @@ export default function Nav() {
         </div>
         <ul>
           <li><a href="#sobre">Resumo</a></li>
-          <li><a href="#skills">Skills</a></li>
+          <li><a href="#skills">Habilidades</a></li>
           <li><a href="#experiencia">Experiência</a></li>
           <li><a href="#projetos">Projetos</a></li>
           <li><a href="#formacao">Formação</a></li>

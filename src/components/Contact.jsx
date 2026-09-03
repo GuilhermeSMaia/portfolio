@@ -4,7 +4,7 @@ export default function Contact() {
   return (
     <section id="contato">
       <div className="wrap">
-        <h2>Disponível para oportunidades como desenvolvedor full-stack.</h2>
+        <h2>Disponível para oportunidades</h2>
         <p>
           Estou buscando minha primeira posição efetiva como desenvolvedor.
           Entre em contato pelos canais abaixo.
